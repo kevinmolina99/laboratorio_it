@@ -1,1 +1,19 @@
-# operadores u expresiones 
+## operadores u expresiones## 
+operadores se entiende como -,+,/,*//,%
+cuando una operacion larga se prioriza **(potenciacion) se soluciona de derecha a izquierda
+ex: 2**3**2 = 512
+consiguiente sigue lis numeros negativos 
+despues /,//,
+
+##operadores de comparacion##
+<,>,<=,>=,!=
+
+##operadores tipo logico##
+not = negacion 3>5 true (es como lo contrario de la respuesta correcta )
+or= disyuncion logica = si alguno de los resultados es verdadero pues es true 
+and= conjuncion los dos tienen que ser verdaderos 
+y por la tabla de precedencia seria 1 not 2 and 3 or 
+
+##operadores para str## 
++ concatenacion = es como unir los mensajes
+* repeticion = "yo"*3
